@@ -1,0 +1,2 @@
+# DevilutionXRandomizer
+ Randomizes DevilutionX Palettes
