@@ -1,6 +1,6 @@
-# DevilutionX Randomizer
+# DevilutionX palette randomizer
 
-Randomizes DevilutionX Level Palettes
+Randomizes DevilutionX level palettes
 
 ![Screenshot](demoimg/catacombs.jpg)
 
