@@ -11,7 +11,7 @@ Randomizes DevilutionX level palettes
 - execute "randomize.bat"
 - for default Diablo palettes execute "randclear.bat"
 
-## LUA randomize stead of BATCH random function
+## LUA randomize instead of BATCH random function
 
 - download LUA (https://github.com/rjpcomputing/luaforwindows/releases) and copy the files to your DevX folder
 - execute "lua54.exe random.lua"

@@ -135,21 +135,21 @@ IF %param1% == lua (
   set /a num4=%param16%
   set /a num5=%param17%  
 ) ELSE (
-  set /a num1=%random% %%59 +1
+  set /a num1=%random% %%58 +1
   :2again3
-  set /a num2=%random% %%59 +1
+  set /a num2=%random% %%58 +1
   if [%num1%] == [%num2%] goto 2again3
   :3again3
-  set /a num3=%random% %%59 +1
+  set /a num3=%random% %%58 +1
   if [%num1%] == [%num3%] goto 3again3
   if [%num2%] == [%num3%] goto 3again3
   :4again3
-  set /a num4=%random% %%59 +1
+  set /a num4=%random% %%58 +1
   if [%num1%] == [%num4%] goto 4again3
   if [%num2%] == [%num4%] goto 4again3
   if [%num3%] == [%num4%] goto 4again3
   :5again3
-  set /a num5=%random% %%59 +1
+  set /a num5=%random% %%58 +1
   if [%num1%] == [%num5%] goto 5again3
   if [%num2%] == [%num5%] goto 5again3
   if [%num3%] == [%num5%] goto 5again3
